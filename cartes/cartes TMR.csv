@@ -1,0 +1,29 @@
+title,obligatoire,recup,image,type,puissance,texte
+Briseur de rêve,1,5,briseur de rêve.png,Rencontre,4,Tant que le briseur de rêve n'est pas maîtrisé le haut-rêvant ne peut pas se déplacer ni faire de magie. Si le briseur de rêve est combattu et qu'il n'est pas maîtrisé le haut-rêvant sort des terres médianes du rêve et toutes ses cartes du champ sont défaussées.
+Cité,,1,cité.png,Terre,4,"Si cette carte est maîtrisée, le haut-rêvant n’est pas obligé de changer une carte de son champ de rêve quand il entre dans les terres médianes du rêve."
+Collines,,2,collines.png,Terre,,
+Désert,,2,désert.png,Terre,,
+Désolation,,4,désolation.png,Terre,,"Tant que la désolation est dans le champ de rêve, les rencontres ont un +1 à leur puissance."
+Fleur de rêve,1,1,fleur de rêve.png,Rencontre,4,"Si elle est maîtrisée, elle donne 1d6 point de rêve au haut-rêvant. Si elle est combattu mais non-maîtrisée, elle est remplacée. "
+Fleuve de l’oubli,1,6,fleuve.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut pas ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. "
+Forêt,,3,forêt.png,Terre,,
+Gouffre,,3,gouffre.png,Terre,,"Tant que le gouffre est dans le champ de rêve, les rencontres ont un +1 à leur puissance."
+Hypnos,,3,hypnos.png,Voie,,
+Hypnos,,3,hypnos.png,Voie,,
+Lac,,5,lac.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. "
+Mangeur de rêve,1,4,mangeur de rêve.png,Rencontre,4,"Si le mangeur de rêve n'est pas maîtrisé, le haut-rêvant perd 1d6 points de rêve et le mangeur de rêve est remplacé."
+Marais,,3,marais.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. Tant que le marais est dans le champ de rêve, les rencontres ont un +1 à leur puissance"
+Monts,,3,monts.png,Terre,,
+Narcos,,3,narcos.png,Voie,,
+Narcos,,3,narcos.png,Voie,,
+Nécropole,,4,nécropole.png,Terre,,"Tant que la nécropole est dans le champs de rêve, les rencontres ont un +1 à leur puissance."
+Oniros,,3,oniros.png,Voie,,
+Oniros,,3,oniros.png,Voie,,
+Passeur de rêve,1,1,passeur de rêve.png,Rencontre,4,Si le passeur est maîtrisé il est possible d'aller dans le paquet ou la défausse et de prendre n'importe quelle carte (sauf le Rêve de Dragon) pour remplacer cette carte (remélanger le deck après). Le passeur doit être remplacée à la fin du round.
+Permanent,X,1,permanent.png,Malus,,Cette carte est retirée du deck si l’effet permanent est terminé.
+Plaines,,3,plaines.png,Terre,,
+Pont,,1,pont.png,Terre,,"Tant que le pont est dans le champ de rêve, les cartes fleuve, lac et marais sont considérées comme maîtrisées."
+Reflet d'anciens rêves,1,RdD,reflet d'anciens rêves.png,Rencontre,4+1d6,"Tant que le haut-rêvant n'a pas maîtrisé le reflet d'ancien rêve, il ne peut pas lancer de sort, ne peut pas se déplacer dans les terres médianes du rêve et perd un point de rêve par round dans les terres médianes du rêve."
+Refoulement,X,0,refoulement.png,Malus,,"Si à un moment deux cartes refoulement apparaissent dans le champ de rêve, le haut-rêvant subit un craquage de rêve."
+Rêve de dragon,1!,RdD,rêve de dragon.png,Rencontre,(4+Ddr),"Cette carte compte comme n'importe quelle voie. Quand cette carte apparaît sur le champ, le joueur lance un d7. Sur un 7, une rencontre avec un rêve de dragon est déclenchée. Cette carte doit être remplacée à la fin du round."
+Thanatos,,3,thanatos.png,Voie,6,Tant que cette carte n'est pas maîtrisée toute nouvelle carte voie autre que thanatos est remplacée si elle est dans le champ de rêve. Si elle est dans le champ de rêve (maîtrisée ou non) alors toute queue de dragon devient une ombre de thanatos.

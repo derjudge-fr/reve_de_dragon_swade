@@ -1,0 +1,29 @@
+title,obligatoire,recup,image,type,puissance,texte
+Cité Sorde,,1,cité sorde.png,Terre,4,"Si cette carte est maîtrisée, le haut-rêvant n’est pas obligé de changer une carte de son champ de rêve quand il entre dans les terres médianes du rêve."
+Collines,,2,collines.png,Terre,,
+Désert,,2,désert.png,Terre,,
+Désolation,,4,désolation.png,Terre,,"Tant que la désolation est dans le champ de rêve, les rencontres ont un +1 à leur puissance."
+Fleuve de l’oubli,1,6,fleuve.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut pas ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. "
+Forêt Turmide,,3,forêt turme.png,Terre,,
+Gouffre,,3,gouffre.png,Terre,,"Tant que le gouffre est dans le champ de rêve, les rencontres ont un +1 à leur puissance."
+Lac,,5,lac.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. "
+Marais,,3,marais.png,Terre,4,"Tant que cette carte n'est pas maîtrisée, le haut-rêvant ne peut ni lancer de sort ou de rituel, ni se déplacer dans les terres médianes du rêve. Tant que le marais est dans le champ de rêve, les rencontres ont un +1 à leur puissance"
+Monts Kanaï,,3,monts kanaï.png,Terre,,
+Narcos,,3,narcosalt.png,Voie,,
+Narcos,,3,narcosalt.png,Voie,,
+Nécropole,,4,nécropole.png,Terre,,"Tant que la nécropole est dans le champs de rêve, les rencontres ont un +1 à leur puissance."
+Périple,X,0,périple.png,Malus,5,"Cette carte peut être retiré du deck en étant maîtrisée. Tant que cette carte est dans le deck, le champ ou la défausse du haut-rêvant, celui-ci ne peut lancer de sort ni de rituel."
+Périple,X,0,périple.png,Malus,5,"Cette carte peut être retiré du deck en étant maîtrisée. Tant que cette carte est dans le deck, le champ ou la défausse du haut-rêvant, celui-ci ne peut lancer de sort ni de rituel."
+Périple,X,0,périple.png,Malus,5,"Cette carte peut être retiré du deck en étant maîtrisée. Tant que cette carte est dans le deck, le champ ou la défausse du haut-rêvant, celui-ci ne peut lancer de sort ni de rituel."
+Périple,X,0,périple.png,Malus,5,"Cette carte peut être retiré du deck en étant maîtrisée. Tant que cette carte est dans le deck, le champ ou la défausse du haut-rêvant, celui-ci ne peut lancer de sort ni de rituel."
+Périple,X,0,périple.png,Malus,5,"Cette carte peut être retiré du deck en étant maîtrisée. Tant que cette carte est dans le deck, le champ ou la défausse du haut-rêvant, celui-ci ne peut lancer de sort ni de rituel."
+Permanent,X,1,permanent.png,Malus,,Cette carte est retirée du deck si l’effet permanent est terminé.
+Permanent,X,1,permanent.png,Malus,,Cette carte est retirée du deck si l’effet permanent est terminé.
+Permanent,X,1,permanent.png,Malus,,Cette carte est retirée du deck si l’effet permanent est terminé.
+Plaines de Psark,,3,plaines de psark.png,Terre,,
+Refoulement,X,0,refoulement.png,Malus,,"Si à un moment deux cartes refoulement apparaissent dans le champ de rêve, le haut-rêvant subit un craquage de rêve."
+Refoulement,X,0,refoulement.png,Malus,,"Si à un moment deux cartes refoulement apparaissent dans le champ de rêve, le haut-rêvant subit un craquage de rêve."
+Rêve de dragon,1!,RdD,rêve de dragon alt.png,Rencontre,(4+Ddr),"Cette carte compte comme n'importe quelle voie. Quand cette carte apparaît sur le champ, le joueur lance un d7. Sur un 7, une rencontre avec un rêve de dragon est déclenchée. Cette carte doit être remplacée à la fin du round."
+Sanctuaire d’Olis,,0,sanctuaire dolis.png,Terre,,Permet de maîtriser automatiquement une rencontre. Remplacer cette carte à la fin du round si vous utilisez cet effet.
+Tourbillon noir,X,0,tourbillon noir.png,"Rencontre, Malus",6+d6,"Tant que le tourbillon noir n'est pas maîtrisé, le haut-rêvant ne peut pas lancer de sort ou de rituel, il est obligé de remplacer toutes les autres cartes du champ du rêve à la fin du round. Il perd aussi un point de rêve par round."
+Trou noir,X,0,trou noir.png,"Rencontre, Malus",7,"Tant que le trou noir n'est pas maîtrisé, il ne peut pas être remplacé. Le haut-rêvant peut continuer à lancer des sorts ou des rituels."
