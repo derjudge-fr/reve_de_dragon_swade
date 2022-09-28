@@ -20,7 +20,7 @@ Les règles de constitution du deck sont :
 
 Il est possible pour le haut-rêvant de remodeler son deck par l'intermédiaire de la méditation draconique, dans le respect des règles ci-dessus. Une méditation draconique est un procédé qui dure une heure complète et coûte un point de rêve. Le joueur peut alors retirer jusqu'à 3 cartes de son deck et ajouter jusqu'à 3 autres cartes dans son deck. Il doit alors remélanger sa défausse.
  
-A la création du personnage et à chaque fois que le haut-rêvant passe par le gris-rêve, vous pouvez changer toutes les cartes de votre deck comme vous le souhaitez (sauf les cartes obligatoires qui ne peuvent être retirées et en respectant les règles de constitution des decks). Les trois cartes du champ de rêve sont piochées depuis son deck.
+A la création du personnage et à chaque fois que le haut-rêvant passe par le gris-rêve, vous pouvez changer toutes les cartes de votre deck comme vous le souhaitez (sauf les cartes obligatoires qui ne peuvent être retirées et en respectant les règles de constitution des decks). Les trois cartes du champ de rêve sont alors piochées depuis son deck.
 
 
 ### Lancer un sort ou un rituel
