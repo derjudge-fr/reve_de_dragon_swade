@@ -9,16 +9,22 @@ Par derjudge
 ### Races jouables
 
 **Humain** Les humains commencent avec un atout gratuit.
-**Gnome** Lent (allure réduite de 1 et dé de course diminué de 1),  Agile (agilité débute à d6, monte jusqu'à d12+1), intelligent (intellect débute à d6, monte à d12+1)
-**Ogre** Fort (force et Vigueur débutent à d6, monte jusqu'à d12+2). 
-Taille +1 : +1 en résistance. 
-Robuste : un deuxième résultat secoué n'est pas converti en blessure.
-Grand. -2 en compétence quand utilise du matériel d'autres races. Armures coûtent le double.
-Faiblesse intellectuelle : (-1 sur les compétences liées à intellect). 
-Compétences de base : n'a pas persuasion comme compétence de départ
+
+**Gnome** 
+  * Lent (allure réduite de 1 et dé de course diminué de 1)
+  * Agile (agilité débute à d6, monte jusqu'à d12+1) 
+  * Intelligent (intellect débute à d6, monte à d12+1)
+
+**Ogre** 
+  * Fort (force et Vigueur débutent à d6, monte jusqu'à d12+2). 
+  * Taille +1 : +1 en résistance. 
+  * Robuste : un deuxième résultat secoué n'est pas converti en blessure.
+  * Grand. -2 en compétence quand utilise du matériel d'autres races. Armures coûtent le double.
+  * Faiblesse intellectuelle : (-1 sur les compétences liées à intellect). 
+  * Compétences de base : n'a pas persuasion comme compétence de départ
 
 **Nouvelles caractéristiques dérivées** :
-*point de rêve* : égal à 8 + le plus mauvais type de dé entre âme et intellect.
+*point de rêve* : égal à 7 + le plus mauvais type de dé entre âme et intellect.
 
  **Compétences de base :** *Athlétisme, Discrétion, Perception, Persuasion, Survie.* (commencent à d4)
 Artisanat (Agilité)
@@ -79,7 +85,7 @@ DÉGÂTS HANDICAPANTS : un Joker subissant au moins une Blessure tire une Séque
 Les heures de chances divisées par deux s'appliquent à tout les tests de draconic pour lancer un rituel. Quand un joueur utilise un jeton et que l'heure de chance est favorable (+2 ou +4), le jeton est récupéré à la fin de l'heure en cours. Quand un joueur utilise un jeton pour relancer un jet et que l'heure de chance est défavorable (-2 ou -4), le résultat du lancer de *remplace* l'ancien jet et peut du coup être plus mauvais.
 
 ## Points de Rêve
-Les points de rêve de départ sont à 8 + le plus mauvais type de dé entre âme et intellect. Pour les vrai-rêvants, les points de rêve sont récupérés à raison d'un dé draconic par heure de sommeil astrologiquement complète. Si on tire un 7 sur ce dé, il y a la rencontre avec un rêve de dragon (voir ci-dessous).
+Pour les vrai-rêvants, les points de rêve sont récupérés à raison d'un dé draconic par heure de sommeil astrologiquement complète. Si on tire un 7 sur ce dé, il y a la rencontre avec un rêve de dragon (voir ci-dessous).
 Les haut-rêvants récupère leur rêve différemment, ils piochent une carte de leur deck à chaque heure de sommeil. Si c'est la carte *rêve de dragon* ou *reflet d'anciens rêves* est tirée, une rencontre avec un rêve de dragon est déclenchée. Sinon le haut-rêvant récupère autant de points de rêve que le score de récupération de la carte (au milieu à droite).
 
 **Rêve de Dragon:** 
