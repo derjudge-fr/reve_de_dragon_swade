@@ -27,25 +27,26 @@ Par derjudge
 **Nouvelles caractéristiques dérivées** :
 *point de rêve* : égal à 7 + le plus mauvais type de dé entre âme et intellect.
 
- **Compétences de base :** *Athlétisme, Discrétion, Perception, Persuasion, Survie.* (commencent à d4)
-Artisanat (Agilité)
-Discrétion (agilité)
-Draconic (Intellect)
-Équitation (Agilité)
-Filouterie (Agilité)
-Intimidation (âme)
-Jeu (Intellect)
-Légendes (Intellect) : comprends aussi écriture et recherche
-Métier (Agilité)
-Perception (Intellect)
-Persuasion (âme)
-Performance (Âme)
-Sarcasme (Intellect) 
-Sciences (Intellect) : comprend zoologie, alchimie, astrologie et botanique
-Soins (Intellect) : comprend médecine et chirurgie
-Stratégie (Intellect)
-Survie (Intellect) :  extérieur, marais, forêt, montagne, sous-sols
-Tir (Agilité)
+ **Compétences de base :** 
+  * *Athlétisme, Discrétion, Perception, Persuasion, Survie.* (commencent à d4)
+  * Artisanat (Agilité)
+  * Discrétion (agilité)
+  * Draconic (Intellect)
+  * Équitation (Agilité)
+  * Filouterie (Agilité)
+  * Intimidation (âme)
+  * Jeu (Intellect)
+  * Légendes (Intellect) : comprends aussi écriture et recherche
+  * Métier (Agilité)
+  * Perception (Intellect)
+  * Persuasion (âme)
+  * Performance (Âme)
+  * Sarcasme (Intellect) 
+  * Sciences (Intellect) : comprend zoologie, alchimie, astrologie et botanique
+  * Soins (Intellect) : comprend médecine et chirurgie
+  * Stratégie (Intellect)
+  * Survie (Intellect) :  extérieur, marais, forêt, montagne, sous-sols
+  * Tir (Agilité)
 
 # Atouts
 **Atouts et handicaps inaccessibles :** 
