@@ -25,7 +25,7 @@ Par derjudge
   * Compétences de base : n'a pas persuasion comme compétence de départ
 
 **Nouvelles caractéristiques dérivées** :
-*point de rêve* : égal à 7 + le plus mauvais type de dé entre âme et intellect.
+ * *points de rêve* : égaux à 7 + le plus mauvais type de dé entre âme et intellect.
 
  **Compétences de base :** 
   * *Athlétisme, Discrétion, Perception, Persuasion, Survie.* (commencent à d4)
