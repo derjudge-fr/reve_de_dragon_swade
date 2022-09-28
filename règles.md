@@ -8,7 +8,8 @@ Par derjudge
 
 ### Races jouables
 
-**Humain** Les humains commencent avec un atout gratuit.
+**Humain** 
+  * Les humains commencent avec un atout gratuit.
 
 **Gnome** 
   * Lent (allure réduite de 1 et dé de course diminué de 1)
