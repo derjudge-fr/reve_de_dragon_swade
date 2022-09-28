@@ -7,17 +7,20 @@ Un deck doit contenir au moins 14 cartes dont :
   - des terres (sanctuaire, cité, plaine, fleuve de l'oubli, etc...)
   - des rencontres (dont certaines mauvaises)
   - possiblement des cartes de malus (voir après)
+
+
 Les règles de constitution du deck sont : 
   - la carte *rêve de dragon* doit être dans le deck et elle ne peut y être qu'en un seul exemplaire,
   - les cartes malus ne peuvent pas être retirées,
   - certaines cartes (notée 1 en bas à gauche) doivent être présente en un au moins un exemplaire,
   - les terres nommées (cité sorde, plaines de psark...) ne peuvent être présent qu'en un seul exemplaire maximum,
   - notez qu'il peut être utile d'ajouter des mauvaises rencontres, parce que ces cartes sont utiles à la récupération de rêve,
-  - le deck doit faire au moins 14 cartes. Le deck doit faire maximum 35 cartes. Les cartes malus sont comptées dans ces limites. Si le joueur doit ajouter une carte à son deck (normalement une carte malus) et dépasser le seuil de 35 cartes, le joueur doit retiré une carte de son deck.
+  - le deck doit faire au moins 14 cartes. 
+  - Le deck doit faire maximum 35 cartes. Les cartes malus sont comptées dans ces limites. Si le joueur doit ajouter une carte à son deck (normalement une carte malus) et dépasser le seuil de 35 cartes, le joueur doit retirer une carte de son deck.
 
-Il est possible pour le haut-rêvant de remodeler son deck par l'intermédiaire de la méditation draconique, de le respect des règles au dessus. Une méditation draconique est un procédé qui dure une heure complète et coûte un point de rêve. Le joueur peut alors retirer jusqu'à 3 cartes de son deck et ajouter jusqu'à 3 autres cartes dans son deck.
+Il est possible pour le haut-rêvant de remodeler son deck par l'intermédiaire de la méditation draconique, dans le respect des règles ci-dessus. Une méditation draconique est un procédé qui dure une heure complète et coûte un point de rêve. Le joueur peut alors retirer jusqu'à 3 cartes de son deck et ajouter jusqu'à 3 autres cartes dans son deck. Il doit alors remélanger sa défausse.
  
-A la création du personnage et à chaque fois que le haut-rêvant passe par le gris-rêve, vous pouvez changer toutes les cartes de votre deck comme vous le souhaitez (sauf les cartes obligatoires qui ne peuvent être retirées et en respectant les règles de constitution des decks). Les trois cartes du champ de rêve sont tirées aléatoirement depuis son deck.
+A la création du personnage et à chaque fois que le haut-rêvant passe par le gris-rêve, vous pouvez changer toutes les cartes de votre deck comme vous le souhaitez (sauf les cartes obligatoires qui ne peuvent être retirées et en respectant les règles de constitution des decks). Les trois cartes du champ de rêve sont piochées depuis son deck.
 
 
 ### Lancer un sort ou un rituel
