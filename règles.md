@@ -18,7 +18,7 @@ Faiblesse intellectuelle : (-1 sur les compétences liées à intellect).
 Compétences de base : n'a pas persuasion comme compétence de départ
 
 **Nouvelles caractéristiques dérivées** :
-*point de rêve* : égal à 8 + type de dé d'âme.
+*point de rêve* : égal à 8 + le plus mauvais type de dé entre âme et intellect.
 
  **Compétences de base :** *Athlétisme, Discrétion, Perception, Persuasion, Survie.* (commencent à d4)
 Artisanat (Agilité)
@@ -49,14 +49,14 @@ Tir (Agilité)
 
 **Haut-Rêvant** : *N, joker, âme d6.* Permet de rêver dans les terres médianes du rêve. Permet d'avoir le droit d’accès aux cartes des TMR (sauf thanatos) et donne les sorts détection d'aura, lecture d'aura, enchantement, ainsi que trois autres sorts de niveau N de votre choix. Le chapitre sur la magie explique en détail le fonctionnement du lancer de sort.
 
-
 ## Atouts de pouvoir
 
 **Thanatosien**: *A, Joker, Haut-Rêvant, Draconic d6* Permet d'avoir des cartes Thanatos dans son deck (avec tout les problèmes qui vont avec).
 **Façonnier** :  *A, Joker, Haut-Rêvant, Draconic d8, artisanat d6* Permet de créer des objets magiques permanent avec la voie de Narcos. C'est-à-dire que le haut-rêvant peut enchanter de façon permanente un objet et poser des écailles permanentes.
- **Onirotopiaire** :  *V, Joker, Haut-Rêvant, Draconic d8* Permet de créer des sorts de zones d'Oniros de façon permanente. Cela ne marche que sur les zones ayant comme durée d'effet HN. Et le sort est lancé comme un rituel.
- **Pouvoirs supplémentaires** : N, HR. Permet d'accéder à 2 nouveaux sorts ou rituel. 
- **Rêve supplémentaire** : N, HR. Augmente de 5 points le nombre de points de rêve initial disponibles. Ne peut être pris qu'une seule fois par niveau.
+**Onirotopiaire** :  *V, Joker, Haut-Rêvant, Draconic d8* Permet de créer des sorts de zones d'Oniros de façon permanente. Cela ne marche que sur les zones ayant comme durée d'effet HN. Et le sort est lancé comme un rituel.
+**Invocateur Suprême** : A, Joker, Haut-rêvant. Quand les invocations d'hypnos de ce haut-rêvant lancent un jet de trait, elles utilisent un dé de joker. 
+**Pouvoirs supplémentaires** : N, HR. Permet d'accéder à 2 nouveaux sorts ou rituel. 
+**Rêve supplémentaire** : N, HR. Augmente de 5 points le nombre de points de rêve initial disponibles. Ne peut être pris qu'une seule fois par niveau.
  
 ## Atout professionnel :
 
@@ -79,12 +79,11 @@ DÉGÂTS HANDICAPANTS : un Joker subissant au moins une Blessure tire une Séque
 Les heures de chances divisées par deux s'appliquent à tout les tests de draconic pour lancer un rituel. Quand un joueur utilise un jeton et que l'heure de chance est favorable (+2 ou +4), le jeton est récupéré à la fin de l'heure en cours. Quand un joueur utilise un jeton pour relancer un jet et que l'heure de chance est défavorable (-2 ou -4), le résultat du lancer de *remplace* l'ancien jet et peut du coup être plus mauvais.
 
 ## Points de Rêve
-
-Les points de rêve de départ sont à 8 + type de dé d'âme. Pour les vrai-rêvants, les points de rêve sont récupérés à raison d'un dé draconic par heure de sommeil astrologiquement complète. Si on tire un 7 sur ce dé, il y a la rencontre avec un rêve de dragon (voir ci-dessous).
+Les points de rêve de départ sont à 8 + le plus mauvais type de dé entre âme et intellect. Pour les vrai-rêvants, les points de rêve sont récupérés à raison d'un dé draconic par heure de sommeil astrologiquement complète. Si on tire un 7 sur ce dé, il y a la rencontre avec un rêve de dragon (voir ci-dessous).
 Les haut-rêvants récupère leur rêve différemment, ils piochent une carte de leur deck à chaque heure de sommeil. Si c'est la carte *rêve de dragon* ou *reflet d'anciens rêves* est tirée, une rencontre avec un rêve de dragon est déclenchée. Sinon le haut-rêvant récupère autant de points de rêve que le score de récupération de la carte (au milieu à droite).
 
 **Rêve de Dragon:** 
-Tirer sa puissance (4+dDr). Un haut-rêvant soit battre ou égaler ce score avec un lancer de draconic. Un vrai-rêvant utilise sa caractéristique âme mais sans utiliser son dé de joker (il ne peut donc pas faire d'échec critique!).
+Tirer sa puissance (4+dDr). Un haut-rêvant soit battre ou égaler ce score avec un lancer de draconic. Un vrai-rêvant utilise sa caractéristique âme mais sans utiliser son dé joker (il ne peut donc pas faire d'échec critique!).
 |résultat|conséquence  |
 |--|--|
 | échec critique | deux queues de dragon  |
