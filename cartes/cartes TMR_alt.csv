@@ -23,7 +23,7 @@ Permanent,X,1,permanent.png,Malus,,Cette carte est retirée du deck si l’effet pe
 Plaines de Psark,,3,plaines de psark.png,Terre,,
 Refoulement,X,0,refoulement.png,Malus,,"Si à un moment deux cartes refoulement apparaissent dans le champ de rêve, le haut-rêvant subit un craquage de rêve."
 Refoulement,X,0,refoulement.png,Malus,,"Si à un moment deux cartes refoulement apparaissent dans le champ de rêve, le haut-rêvant subit un craquage de rêve."
-Rêve de dragon,1!,RdD,rêve de dragon alt.png,Rencontre,(4+Ddr),"Cette carte compte comme n'importe quelle voie. Quand cette carte apparaît sur le champ, le joueur lance un d7. Sur un 7, une rencontre avec un rêve de dragon est déclenchée. Cette carte doit être remplacée à la fin du round."
+Rêve de dragon,1!,RdD,rêve de dragon.png,Rencontre,(4+Ddr),"Cette carte compte comme n'importe quelle voie. Quand cette carte apparaît sur le champ, le joueur lance un d7. Sur un 7, une rencontre avec un rêve de dragon est déclenchée. Cette carte doit être remplacée à la fin du round."
 Sanctuaire d’Olis,,0,sanctuaire dolis.png,Terre,,Permet de maîtriser automatiquement une rencontre. Remplacer cette carte à la fin du round si vous utilisez cet effet.
 Tourbillon noir,X,0,tourbillon noir.png,"Rencontre, Malus",6+d6,"Tant que le tourbillon noir n'est pas maîtrisé, le haut-rêvant ne peut pas lancer de sort ou de rituel, il est obligé de remplacer toutes les autres cartes du champ du rêve à la fin du round. Il perd aussi un point de rêve par round."
 Trou noir,X,0,trou noir.png,"Rencontre, Malus",7,"Tant que le trou noir n'est pas maîtrisé, il ne peut pas être remplacé. Le haut-rêvant peut continuer à lancer des sorts ou des rituels."

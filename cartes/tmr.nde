@@ -3,30 +3,26 @@ PAGE=21,29.7,PORTRAIT,HV
 DPI=300
 CARDSIZE=6.9,9.4
 
-LINK="cartes TMR_alt.csv"
+LINK="cartes TMR.csv"
 
 [all]="1-{(title)}"
 
 image=[all],"background.png",0,0,100%,100%,0,P
 
-font="Arial",14,T,#FFFFFF
-text=[all],[title],0,4.5%,100%,10%,center,center,0,50,0.1
-font="Arial",14,T,#000000
-text=[all],[title],0%,4.5%,100%,10%,center,center
+FONT="Caslon Antique",15,BT,#000000
+TEXT=[all],[title],0%,4.4%,100%,10.277%,center,center
 
-image=[all],[image],11.6%,13.9%,76.1%,41.1%,0,C
+image=[all],[image],10.7%,13.1%,77.6%,42%,0,C
 
-font="Arial",10,T,#000000
-text=[all],[puissance],68%,85.5%,20%,10%,right,center
-font="Arial",10,T,#000000
-text=[all],[obligatoire],7%,85.5%,10%,10%,center,center
+font="Caslon Antique",10,T,#000000
+text=[all],[puissance],68%,86%,20%,10%,right,center
+font="Caslon Antique",10,T,#000000
+text=[all],[obligatoire],7%,86%,10%,10%,center,center
 
-htmlfont=fnt,Arial,8,,#000000,justify
+htmlfont=fnt,"Caslon Antique",8,,#000000,justify
 htmltext=[all],[texte],11.5%,62%,75%,25%,#ffffff,0,E,100,fnt
 
-font="Arial",9,T,#000000
+font="Caslon Antique",9,T,#000000
 text=[all],[type],12%,53.3%,50%,10%,left,center
-font="Arial",9,T,#000000
+font="Caslon Antique",9,T,#000000
 text=[all],[recup],76%,53.3%,10%,10%,right,center
-
-
