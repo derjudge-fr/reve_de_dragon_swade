@@ -111,7 +111,7 @@ Les sortilèges notés (R) sont des rituels.
   * **Enchevêtrement**, N, forêt, HN, 2, contrôle la végétation pour enchevêtrer les personnes dans la zone.
   * **Illusion**, N, cité, HN, 2, créer une illusion fixe dans la zone 
   * **Lumières/Ténèbres**, N, plaines/gouffre, HN, 1, créer/détruit la lumière dans la zone
-  * **Silence/Clameur **, N, désert/cité, HN, 1, détruit/amplifie les sons dont la source vient de la zone
+  * **Silence/Clameur**, N, désert/cité, HN, 1, détruit/amplifie les sons dont la source vient de la zone
   * **Manipulation élémentaire**, A, voir la table, HN, 3
   * **Téléportation(R)**, V, collines, HN, 3, créer une zone de départ ou une zone d'arrivée
   * **Bulle Volante**, H, marais, HN, 3
