@@ -144,8 +144,8 @@ Les sortilèges notés (R) sont des rituels.
 | TERRE EN MÉTAL | Gouffre |
 
 #### Hypnos
- * **Confusion**, N, désolation, 1 heure, 1, la cible est vulnérable et distraite. En cas de stress ou de douleur la cible a le droit à un jet d'intellect à -2 pour recouvrer son état normal
- * **Déguisement**, A, monts, HN, 2, équivalent à transfiguration et métamorphose
+ * **Confusion**, N, désolation, 1 heure, 1, la cible est vulnérable et distraite. Elle divise par deux son allure. En cas de stress ou de douleur la cible a le droit à un jet d'intellect à -2 pour dissiper le sort.
+ * **Transfiguration**, A, monts, HN, 2, équivalent à transfiguration et métamorphose
  * **Convocation d'alliés(R)** (on choisit 2 alliés possibles à chaque fois qu'on achète ce sort). Les alliées spécifiques doivent être appelé depuis une carte terre avec un nom spécifique. Chaque carte terre ayant un nom spécifique ne peuvent être présent dans un deck qu'en un seul exemplaire (sauf le fleuve de l'oubli).
     * Guerrier Sorde, A, cité sorde, HN, 3
     * Nonechalepasse, A, cité jalouse, HN, 3
@@ -155,7 +155,6 @@ Les sortilèges notés (R) sont des rituels.
     * Coursiers de Psark, A, plaines de psark, HN, 2
  * **Invisibilité**, V, fleuve, HN, 3
  * **Rapidité**, A, collines, 2 minutes, 2, la cible double son déplacement et tire deux cartes d'initiative et garde la meilleure. Il gagne 1 en parade. Il devient fatigué à la fin de l'effet.
- * **Apathie**, A, marais, 2 minutes, 2. divise par 2 la vitesse de la cible. A droit à un jet d'âme à -2 par round pour interrompre l'effet 
  * **Oubli**, V, fleuve, inst, 3. voir effacement mental
  * **Sommeil**, V, marais, 2 minutes. La victime a le droit à un jet d'âme à -2 pour résister au sort. 
  * **Rituels d'hypnos(R)**, N, var. 2 minutes. 2.
@@ -171,13 +170,13 @@ Selon le mode d'utilisation :
 
 
 #### Narcos
-  * **Enchantement(R)** : N, cité, spécial, spécial. Rituel de base pour créer un objet magique ou une potion. Le rituel coûte *n* points de rêve, où *n* est au choix du HR (minimum 1). La gemme, la potion ou l'objet incrusté de gemme devient enchantée pour *n* points de rêve. Si c'est une potion qui est enchantée, son effet devient magique. Si c'est un objet ou une gemme un autre rituel (voir ci-après), cela représente la première étape pour faire un objet magique. Les rituels suivants (les écailles) permettent de donner des effets magiques aux objets. Les HR avec l'atout artificier peuvent pour un surcoût de deux points de rêve et contre l'obtention d'une carte malus *effet permanent*, faire que l'enchantement soit définitif. Sans quoi l'objet perd un point de rêve par jour, à l'heure du vaisseau. Un objet sans point de rêve perd toutes ses écailles.
+  * **Enchantement(R)** : N, cité, spécial, spécial. Rituel de base pour créer un objet magique ou une potion. Le rituel coûte *n* points de rêve, où *n* est au choix du HR (minimum 1). La gemme, la potion ou l'objet incrusté de gemme devient enchanté pour *n* points de rêve. Si c'est une potion qui est enchantée, son effet devient magique. Si c'est un objet ou une gemme un autre rituel (voir ci-après), cela représente la première étape pour faire un objet magique. Les rituels suivants (les écailles) permettent de donner des effets magiques aux objets. Les HR avec l'atout artificier peuvent pour un surcoût de deux points de rêve et contre l'obtention d'une carte malus *permanent*, faire que l'enchantement soit définitif. Sans quoi l'objet perd un point de rêve par jour, à l'heure du vaisseau. Un objet sans point de rêve perd toutes ses écailles.
 Les écailles posées sur un objet magique permanent doivent être permanente aussi. Sinon l'écaille ne durera qu'une journée. Si l'écaille est posée sur un objet enchanté de façon non permanente, son effet dure tant que l'objet a des points de rêve.
 Un objet ne peut pas avoir plus de 7 écailles différentes.
   * **Écaille de résistance(R)** : A, lac, spécial, 3. Mis sur une armure, donne un +2 à la résistance. Non cumulable.
   * **Écaille d'efficacité(R)**. N, monts, spécial, 3. Augmente d'un cran l'utilisation d'une compétence adapté à l'objet.
   * **Écaille du guerrier(R)** : A,  collines, spécial, 3. Donne un atout de combat au porteur, au choix du magicien.
-  * **Écaille de Frappe(R) ** N, gouffre, spécial, 2. L'arme enchantée par cette écaille donne un +2 au dégâts
+  * **Écaille de Frappe(R)** N, gouffre, spécial, 2. L'arme enchantée par cette écaille donne un +2 au dégâts
   * **Écaille d'activité(R)** A, désolation, spécial, 3. L'objet enchanté peut lancer (avec les points de rêve du porteur) un sort connu par le magicien.
   * **Grandes écailles de Narcos : Vision dans le noir(R)**. N, plaines, spécial, 1. Le porteur de ces binocles ignore jusqu'à 4 point de malus dû à l'obscurité.
   * **Grandes écailles de Narcos : Puits de rêve(R)**. A, lac, spécial, 7. Crée une réserve de point de rêve utilisables par le mage. Il peut poser jusqu'à 7 écailles de puits de rêve sur un objet. Chaque écaille donne une réserve possible de 7 points de rêve. 
@@ -262,8 +261,3 @@ Les souffles durent pour la durée du scénario en cour. Certain ont un effet pl
  * **paresse intellectuelle** : perte d'un niveau dans une compétence qui dépend d'intellect
  * **épuisement** : pour le reste du scénario en cour, niveau de fatigue à -1 (irrécupérable)
  * **trou noir**: ajouter définitivement une carte trou noir au deck. Impossible à enlever du deck.
-
-
-
-
-
