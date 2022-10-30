@@ -61,7 +61,7 @@ Par derjudge
   * **Thanatosien**: *A, Joker, Haut-Rêvant, Draconic d6* Permet d'avoir des cartes Thanatos dans son deck (avec tout les problèmes qui vont avec).
   * **Façonnier** :  *A, Joker, Haut-Rêvant, Draconic d8, artisanat d6* Permet de créer des objets magiques permanent avec la voie de Narcos. C'est-à-dire que le haut-rêvant peut enchanter de façon permanente un objet et poser des écailles permanentes.
   * **Onirotopiaire** :  *V, Joker, Haut-Rêvant, Draconic d8* Permet de créer des sorts de zones d'Oniros de façon permanente. Cela ne marche que sur les zones ayant comme durée d'effet HN. Et le sort est lancé comme un rituel.
-  * **Invocateur Suprême** : A, Joker, Haut-rêvant. Quand les invocations d'hypnos de ce haut-rêvant lancent un jet de trait, elles utilisent un dé de joker. 
+  * **Invocateur Suprême** : A, Joker, Haut-rêvant. Quand ce haut-rêvant controle des invocations d'hypnos, il peut dépenser des jetons au bénéfice des ses invocations. 
   * **Pouvoirs supplémentaires** : N, HR. Permet d'accéder à 2 nouveaux sorts ou rituel. 
   * **Rêve supplémentaire** : N, HR. Augmente de 5 points le nombre de points de rêve initial disponibles. Ne peut être pris qu'une seule fois par niveau.
  
