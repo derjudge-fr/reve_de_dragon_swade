@@ -140,7 +140,7 @@ Spécial :
 
 ## Entités de Cauchemar
 ### Incarnées
-Les entités de cauchemar incarnée ont une caractéristique secondaire appelée cauchemar. Quand elle est touché par une arme ou blessé par une créature rêvée, celle-ci doit faire un jet d'âme qui dépasse ou atteint la caractéristique cauchemar de la créature. En cas d'échec, les dégâts sont annulés. En cas de réussite, les dégâts sont appliqués et l'attaquant perd un point de rêve. Il n'est plus nécessaire de faire de test pour le reste de la rencontre. Par contre la résistance d'une entité de cauchemar est toujours de 3, quelque soit leur vigueur et leur armure. Les entités de cauchemar ne peuvent pas être secouées. Ce qui les rend des adversaires redoutables.
+Les entités de cauchemar incarnée ont une caractéristique secondaire appelée cauchemar. Quand elle est touchée par une arme ou blessée par une créature rêvée, celle-ci doit faire un jet d'âme qui dépasse ou atteint la caractéristique cauchemar de la créature. En cas d'échec, les dégâts sont annulés. En cas de réussite, les dégâts sont appliqués et l'attaquant perd un point de rêve. Il n'est plus nécessaire de faire de test pour le reste de la rencontre. Par contre la résistance d'une entité de cauchemar est toujours de 4, quelque soit leur vigueur et leur armure. Les entités de cauchemar ne peuvent pas être secouées. Ce qui les rend des adversaires redoutables.
 Les entités de rêve pleinement incarnées ont aussi une protection similaire, mais cette caractéristique s'appelle "protection" au lieu de "cauchemar" (mais ça fonctionne pareil).
 
 ### Désincarnées
@@ -149,7 +149,7 @@ Une entité de cauchemar désincarnées n'a qu'une seule caractéristique : âme
 ### Chien de la mort
 Attributs: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8
 Talent: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
-Allure: 8; Parade 6; Résistance: 3 Cauchemar: 5
+Allure: 8; Parade 6; Résistance: 4 Cauchemar: 5
 Habilités spéciales :
 - dé de course : d8
 - morsure : Force+d6
@@ -158,28 +158,51 @@ Habilités spéciales :
 ### Quauquemaire🎭
 Attributs: Agilité d8, Intellect d8(A), âme d8, Force d10, Vigueur d10
 Talent: Combat d10, Perception d10 Athlétisme d10
-Allure: 8; Parade 6; Résistance: 3 Cauchemar: 6
+Allure: 8; Parade 6; Résistance: 4 Cauchemar: 6
 Habilités spéciales :
 - morsure : Force+d6
 - chant de cauchemar : entendre un quauquemaire chanter au crépuscule demande un jet d'âme. En cas d'échec on fait des cauchemars toute la nuit : on ne peut pas convertir son stress, ni récupérer des points de rêve.
-- entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée.
+- entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
 
 ### Zombi
 Attributs: Agilité d6, Intellect d4(A), âme d4, Force d6, Vigueur d6
 Talent: Combat d6, Perception d4 Athlétisme d4
-Allure: 4; Parade 5; Résistance: 3 Cauchemar: 4
+Allure: 4; Parade 5; Résistance: 4 Cauchemar: 4
 Habilités spéciales :
-- entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être sonnée. Elle ne craint ni la peur ni la magie.
+- entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
 
 ### Désespoir, Haine, Peur
 Talent : possession d8
 Allure 4
 
 ## Invocations 
-### Guerrier Sorde
-### Nonechalepasse
-### Kanaillou
-### Guerrier Turme
-### Vierge d'Olis
-### Coursiers de Psark
+### Guerrier Sorde et Nonechalepasse
+Allure : 6, ne court, ne nage et n'escalade jamais
+Agi d8 Âme d6 For d10 Int d4 Vig d8
+Compétences : Athlétisme d6, Combat d10, Discrétion d4, Intimidation d6, Perception d6
+Parade 7 Résistance 8 (2)
+CAPACITÉS SPÉCIALES
+ Armure +2
+ Sans peur : immunisé à la Terreur et l’Intimidation.
+ trés résilent : peut subir deux blesssures avant d'être incapacité
+ Balayage
+ACTIONS
+ Arme de mêlée, arme sorde : Combat d10, 2d8.
 
+
+### Kanaillou
+Compétences pertinentes : d12+2
+
+### Guerrier Turme
+Allure : 6, ne court, ne nage et n'escalade jamais
+Agi d8 Âme d6 For d6 Int d6 Vig d6
+Compétences : Athlétisme d6, Combat d6, Discrétion d4, Perception d10
+Parade 5 Résistance 6 (1)
+Dague : Combat d6, dégâts 2d4
+
+### Vierge d'Olis
+Jet d'âme pour résister à leurs chants et à leurs danses (-2 pour les personnes attirées par les femmes). Etat Distrait sinon.
+
+
+### Coursiers de Psark
+Voir Cheval
