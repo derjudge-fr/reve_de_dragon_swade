@@ -5,7 +5,7 @@
 Pour trouver une certaine plante (ou minéraux) faire jouer Survie ajuster par la rareté de la ressource (entre 0 et 4). Généralement une recherche dure une demi-heure et permet d'obtenir 1d6 (jet ouvert) doses utilisables.
 
 ### Herbe de lune
-L'herbe de lune à une puissance entre 1 et 10. La personne qui fume des brins d'herbe de lune doit faire un jet de vigueur contre la puissance de l'herbe de lune (minimum 4). Si elle rate, elle perd un niveau de santé. Dans tout les cas elle gagne un nombre de points de rêve égal à la puissance de l'herbe.
+L'herbe de lune a une puissance entre 1 et 10. La personne qui fume des brins d'herbe de lune doit faire un jet de vigueur contre la puissance de l'herbe de lune (minimum 4). Si elle rate, elle perd un niveau de santé. Dans tout les cas elle gagne un nombre de points de rêve égal à la puissance de l'herbe.
 
 ## Alchimie
 Les personnages peuvent utiliser la compétence sciences pour faire des potions différentes. L'alchimiste aura besoin d'un cristal et d'un mini laboratoire (sans quoi les jets sont à -1 sans le cristal et -2 cumulatif sans laboratoire).
