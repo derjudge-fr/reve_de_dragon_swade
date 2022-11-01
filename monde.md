@@ -15,30 +15,30 @@ Réunissez les ingrédients et faites un jet d'alchimie difficulté 4 pour obten
 # Bestiaire
 ## Humanoïdes
 ### Chafouin
-Attributs: Agilité d8, Intellect d6, Âme d6, Force d6, Vigueur d6
-Talent: Combat d6, Perception d8, discrétion d10, Athlétisme d8, Survie d10
-Allure: 5; Parade: 5; Résistance: 4
-Special Abilities:
+**Attributs** : Agilité d8, Intellect d6, Âme d6, Force d6, Vigueur d6
+**Talent** : Combat d6, Perception d8, discrétion d10, Athlétisme d8, Survie d10
+**Allure** : 5; Parade: 5; Résistance: 4
+**Special Abilities** :
  - taille - 1
  - morsure : d4+d4
  - empoignade
 
 ### Cyan
-Attributs: Agilité d6, Intellect d6, Âme d10, Force d6, Vigueur d6
-Talent: Combat d8, Perception d6, discrétion d6, Athlétisme d6, Tir d8,
+**Attributs** : Agilité d6, Intellect d6, Âme d10, Force d6, Vigueur d6
+**Talent** : Combat d8, Perception d6, discrétion d6, Athlétisme d6, Tir d8,
 Persuasion d6
-Allure: 6; Parade: 6; Résistance: 6 (1)
-Special Abilities:
+**Allure** : 6; Parade: 6; Résistance: 6 (1)
+**Special Abilities** :
  - Arc 2d6
  - Cimeterre : 2d6
  - Séduisant
 
 ### Groin
-Attributs: Agilité d6, Intellect d4, Âme d6, Force d8, Vigueur d8
-Talent: Combat d6, Perception d6, discrétion d6, Athlétisme d6, Tir d6,
+**Attributs** : Agilité d6, Intellect d4, Âme d6, Force d8, Vigueur d8
+**Talent** : Combat d6, Perception d6, discrétion d6, Athlétisme d6, Tir d6,
 Persuasion d4
-Allure: 6; Parade: 5; Résistance: 8 (1)
-Special Abilities:
+**Allure** : 6; Parade: 5; Résistance: 8 (1)
+**Special Abilities** :
  - taille + 1
  - grouine d8+d8
 
@@ -47,10 +47,10 @@ voir p187 du livre de SWADE
 
 ## Créatures
 ### Chrasme
-Attributs: Agilité d6, Intellect d4 (A), Âme d6, Force d6, Vigueur d8
-Talent: Combat d6, Perception d6, discrétion d6
-Allure: 6; Parade: 5; Résistance: 9 (3)
-Special Abilities:
+**Attributs**: Agilité d6, Intellect d4 (A), Âme d6, Force d6, Vigueur d8
+**Talent**: Combat d6, Perception d6, discrétion d6
+**Allure**: 6; Parade: 5; Résistance: 9 (3)
+**Special Abilities**:
  - Armor +3: carapace.
  - Morsure: force+d6, AP 2, damage.
  - Vision lumière faible : ignore les malus de l'obscurité
@@ -66,30 +66,30 @@ Allure: 8(marche)/12(vol); Parade: 4; Résistance: 5
   - Vision nocturne : Ignore 2 points de pénalité dû à la lumière faible
 
 ### Glou
-Attributs: Agilité d6, Intellect d4, âme d6, Force d12, Vigueur d10
-Talent: Combat d8, Intimidation d10, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
-Allure: 6; Parade 6; Résistance: 10 (2)
-Atout: Balayage
-Habilités spéciales :
+**Attributs**: Agilité d6, Intellect d4, âme d6, Force d12, Vigueur d10
+**Talent**: Combat d8, Intimidation d10, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
+**Allure**: 6; Parade 6; Résistance: 10 (2)
+**Atout**: Balayage
+**Habilités spéciales** :
   - Armor +2 : peau minérale
   - Griffe: Force+d4
   - Pierre lancée : Force + (dé qui dépend de la taille de la pierre max : force) 5/10/20
   - Taille +1
 
 ### Grizzal
-Attributs: Agilité d6, Intellect d6(A), âme d8, Force d12+2, Vigueur d12
-Talent: Combat d8, Intimidation d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
-Allure: 8; Parade 6; Résistance: 10
-Habilités spéciales :
+**Attributs**: Agilité d6, Intellect d6(A), âme d8, Force d12+2, Vigueur d12
+**Talent**: Combat d8, Intimidation d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
+**Allure**: 8; Parade 6; Résistance: 10
+**Habilités spéciales** :
   - taille +2
   - brute (résiste à athlétisme avec force)
   - Griffe: Force+d6
 
 ### Lycan
-Attributs: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8
-Talent: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
-Allure: 8; Parade 6; Résistance: 5
-Habilités spéciales :
+**Attributs**: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8
+**Talent**: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
+**Allure**: 8; Parade 6; Résistance: 5
+**Habilités spéciales** :
   - dé de course : d8
   - morsure : Force+d4
   - taille -1
@@ -104,20 +104,20 @@ Allure: 12(vol); Parade: 3; Résistance: 1
   - oracle
 
 ### Sirène
-Attributs: Agilité d8, Intellect d6(A), âme d6, Force d8, Vigueur d8
-Talent: Combat d8, Perception d6 , Athlétisme d6
-Allure: 4/8 dans l'eau; Parade 5; Résistance: 6
-Habilités spéciales :
+**Attributs**: Agilité d8, Intellect d6(A), âme d6, Force d8, Vigueur d8
+**Talent**: Combat d8, Perception d6 , Athlétisme d6
+**Allure**: 4/8 dans l'eau; Parade 5; Résistance: 6
+**Habilités spéciales** :
   - Illusion : apparait comme une jeune fille. Il y a un jet de résistance (âme à -4) pour résister à l'illusion et percevoir l'apparence réelle.
   - Chant : résiste avec un jet d'âme (à - 2 pour les personnes attirées par les femmes)
   - Serres, crocs: Force+d6
 
 ### Tigre Vert
-Attributs: Agilité d8, Int d6 (A), âme d10, Force d12+1, Vigueur d8
-Skills: Combat d8, Notice d8, Intimidation d8, Stealth d6, Tracking d4
+**Attributs**: Agilité d8, Int d6 (A), âme d10, Force d12+1, Vigueur d8
+**Skills**: Combat d8, Notice d8, Intimidation d8, Stealth d6, Tracking d4
 
-Allure 8; Parade: 6; Résistance: 8
-Spécial :
+**Allure** 8; **Parade**: 6; **Résistance**: 8
+**Spécial** :
   - Morsure, griffe: Str+d6.
   - environnent favori : jungle + 2 en survie et discrétion dans la jungle
   - Frénésie améliorée Les Tigres Verts font deux attaques par action sans pénalité
@@ -126,10 +126,10 @@ Spécial :
   - Taille +2
 
 ### Tournedent🎭
-Attributs: Agilité d10, Int d6 (A), âme d6, Force d12+2, Vigueur d12
-Skills: Combat d10, Perception d10, Intimidation d8, Athlétisme d8
-Allure 8; Parade: 7; Résistance: 12(4)
-Spécial :
+**Attributs:** Agilité d10, Int d6 (A), âme d6, Force d12+2, Vigueur d12
+**Skills:** Combat d10, Perception d10, Intimidation d8, Athlétisme d8
+**Allure** 8; **Parade**: 7; **Résistance**: 12(4)
+**Spécial** :
   - armure : 4 d'armure
   - Morsure : Str+d6.
   - Frénésie améliorée : un tournedent fait deux attaques par action sans pénalité
@@ -147,28 +147,28 @@ Les entités de rêve pleinement incarnées ont aussi une protection similaire, 
 Une entité de cauchemar désincarnées n'a qu'une seule caractéristique : âme et une seule compétence : possession. Quand une entité attaque une personne, celle-ci peut choisir de combattre l'entité ou de renoncer au combat psychique. Si elle combat l'entité, elle devient vulnérable et chacun fait un test d'âme (ou de possession pour l'entité de cauchemar, ou de draconic pour la personne qui résiste). Si l'entité gagne ou si la personne renonce au combat, l'entité gagne 1 point de possession. Si la personne remporte le test elle gagne 1 point de conjuration. Si l'entité a au total 2 points de possession, elle gagne le combat. Si la victime a au total 2 point de conjuration, l'entité est détruite.
 
 ### Chien de la mort
-Attributs: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8
-Talent: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
-Allure: 8; Parade 6; Résistance: 4 Cauchemar: 5
-Habilités spéciales :
+**Attributs**: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8
+**Talent**: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8
+**Allure**: 8; **Parade** 6; **Résistance**: 4 **Cauchemar**: 5
+**Habilités spéciales** :
   - dé de course : d8
   - morsure : Force+d6
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
 
 ### Quauquemaire🎭
-Attributs: Agilité d8, Intellect d8(A), âme d8, Force d10, Vigueur d10
-Talent: Combat d10, Perception d10 Athlétisme d10
-Allure: 8; Parade 6; Résistance: 4 Cauchemar: 6
-Habilités spéciales :
+**Attributs**: Agilité d8, Intellect d8(A), âme d8, Force d10, Vigueur d10
+**Talent**: Combat d10, Perception d10 Athlétisme d10
+**Allure**: 8; **Parade** 6; **Résistance**: 4 **Cauchemar**: 6
+**Habilités spéciales** :
   - morsure : Force+d6
   - chant de cauchemar : entendre un quauquemaire chanter au crépuscule demande un jet d'âme. En cas d'échec on fait des cauchemars toute la nuit : on ne peut pas convertir son stress, ni récupérer des points de rêve.
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
 
 ### Zombi
-Attributs: Agilité d6, Intellect d4(A), âme d4, Force d6, Vigueur d6
-Talent: Combat d6, Perception d4 Athlétisme d4
-Allure: 4; Parade 5; Résistance: 4 Cauchemar: 4
-Habilités spéciales :
+**Attributs**: Agilité d6, Intellect d4(A), âme d4, Force d6, Vigueur d6
+**Talent**: Combat d6, Perception d4 Athlétisme d4
+**Allure**: 4; **Parade** 5; **Résistance**: 4 **Cauchemar**: 4
+**Habilités spéciales** :
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
 
 ### Désespoir, Haine, Peur
@@ -177,27 +177,27 @@ Allure 4
 
 ## Invocations 
 ### Guerrier Sorde et Nonechalepasse
-Allure : 6, ne court, ne nage et n'escalade jamais
+**Allure** : 6, ne court, ne nage et n'escalade jamais
 Agi d8 Âme d6 For d10 Int d4 Vig d8
-Compétences : Athlétisme d6, Combat d10, Discrétion d4, Intimidation d6, Perception d6
-Parade 7 Résistance 8 (2)
-CAPACITÉS SPÉCIALES
+**Compétences** : Athlétisme d6, Combat d10, Discrétion d4, Intimidation d6, Perception d6
+**Parade** 7 **Résistance** 8 (2)
+**CAPACITÉS SPÉCIALES**
   - Armure +2
   - Sans peur : immunisé à la Terreur et l’Intimidation.
   - trés résilent : peut subir deux blesssures avant d'être incapacité
   - Balayage
-ACTIONS
+**ACTIONS**
   - Arme de mêlée, arme sorde : Combat d10, 2d8.
 
 
 ### Kanaillou
-Compétences pertinentes : d12+2
+**Compétences pertinentes** : d12+2
 
 ### Guerrier Turme
-Allure : 6, ne court, ne nage et n'escalade jamais
+**Allure** : 6, ne court, ne nage et n'escalade jamais
 Agi d8 Âme d6 For d6 Int d6 Vig d6
-Compétences : Athlétisme d6, Combat d6, Discrétion d4, Perception d10
-Parade 5 Résistance 6 (1)
+**Compétences** : Athlétisme d6, Combat d6, Discrétion d4, Perception d10
+**Parade** 5 **Résistance**6 (1)
   - Dague : Combat d6, dégâts 2d4
 
 ### Vierge d'Olis
