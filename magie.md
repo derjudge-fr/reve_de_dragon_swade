@@ -267,8 +267,8 @@ Les souffles durent pour la durée du scénario en cour. Certain ont un effet pl
 Bien sûr cette gestion des TMR est assez gérable pour un joueur seul qui n'a que ça a gérer, cela peut être beaucoup plus complexe pour un gardien des rêves ayant beaucoup d'autres chats à foutter. Donc quand  un haut-rêvant lance un sort, faites un lancer de traits sous draconic avec comme difficulté 4 et tirer une carte. Si le jet est réussi le sort réussi. Si la carte est un trèfle il y a une complication en fonction de la carte : 
 
 | valeur | effet | 
-| -- | -- | 
+| :--: | -- | 
 | 2-9 | perte d'un point de rêve supplémentaire |
 | 10-K | perte d'un round et d'un point de rêve |
 | A | perte de deux round et deux points de rêve |
-| Joker | sort échoué et une queue de dragon (ou une ombre pour un thanatosien) |
+
