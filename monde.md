@@ -46,6 +46,7 @@ Persuasion d4
 voir p187 du livre de SWADE
 
 ## Créatures
+
 ### Chrasme
 **Attributs**: Agilité d6, Intellect d4 (A), Âme d6, Force d6, Vigueur d8  
 **Talent**: Combat d6, Perception d6, discrétion d6  
@@ -85,6 +86,15 @@ Allure: 8(marche)/12(vol); Parade: 4; Résistance: 5
   - brute (résiste à athlétisme avec force)
   - Griffe: Force+d6
 
+### Harpie
+**Attributs**: Agilité d8, Intellect d6(A), âme d6, Force d6, Vigueur d6
+**Talent**: Combat d8, Perception d6, Survie d6, Athlétisme d8, intimidation d6  
+**Allure**: 10(vol); Parade 6; Résistance: 5
+**Habilités spéciales** :
+  - dé de course : d8
+  - serres : Force+d4
+  - non-aggresivité : la victime de ce sort doit réussir un jet d'âme à -2 pour réussir à attaquer la harpie. Si ce jet est réussi, le pouvoir est annulé.
+
 ### Lycan
 **Attributs**: Agilité d6, Intellect d6(A), âme d6, Force d8, Vigueur d8  
 **Talent**: Combat d8, Perception d8 Discrétion d8, Survie d8, Athlétisme d8  
@@ -114,8 +124,7 @@ Allure: 12(vol); Parade: 3; Résistance: 1
 
 ### Tigre Vert
 **Attributs**: Agilité d8, Int d6 (A), âme d10, Force d12+1, Vigueur d8
-**Skills**: Combat d8, Notice d8, Intimidation d8, Stealth d6, Tracking d4
-
+**Skills**: Combat d8, Notice d8, Intimidation d8, Stealth d6, Tracking d6
 **Allure** 8; **Parade**: 6; **Résistance**: 8  
 **Spécial** :
   - Morsure, griffe: Str+d6.
@@ -141,6 +150,8 @@ Allure: 12(vol); Parade: 3; Résistance: 1
 ## Entités de Cauchemar
 ### Incarnées
 Les entités de cauchemar incarnée ont une caractéristique secondaire appelée cauchemar. Quand elle est touchée par une arme ou blessée par une créature rêvée, celle-ci doit faire un jet d'âme qui dépasse ou atteint la caractéristique cauchemar de la créature. En cas d'échec, les dégâts sont annulés. En cas de réussite, les dégâts sont appliqués et l'attaquant perd un point de rêve. Il n'est plus nécessaire de faire de test pour le reste de la rencontre. Par contre la résistance d'une entité de cauchemar est toujours de 4, quelque soit leur vigueur et leur armure. Les entités de cauchemar ne peuvent pas être secouées. Ce qui les rend des adversaires redoutables.
+Les entités de cauchemars peuvent encaisser deux blessures sans être incapacitées, et ne subissent pas de malus dûs aux blessures. Les entités joker peuvent subit trois blessures sans être incapacitées.
+Les entités de cauchemar ne subissent pas de malus dû à l'obscurité.
 Les entités de rêve pleinement incarnées ont aussi une protection similaire, mais cette caractéristique s'appelle "protection" au lieu de "cauchemar" (mais ça fonctionne pareil).
 
 ### Désincarnées
@@ -153,23 +164,67 @@ Une entité de cauchemar désincarnées n'a qu'une seule caractéristique : âme
 **Habilités spéciales** :
   - dé de course : d8
   - morsure : Force+d6
+  - très résilent: peut subit deux blessures sans être incapacité, ne subit pas de malus des blessures.
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+
+### Vaseux🎭
+**Attributs**: Agilité d8, Intellect d8(A), âme d8, Force d10, Vigueur d10  
+**Talent**: Combat d10, Perception d10 Athlétisme d10 
+**Allure**: 8; **Parade** 7; **Résistance**: 4 **Cauchemar**: 6  
+**Habilités spéciales** :
+  - tentacules (2) 
+  - taille +2
+  - Le vaseux va essayer d'empoigner ses cibles et de la broyer. Une fois la cible inconsciente, la cible est recouverte et subit les règles de noyade.
+  - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+
+
+### Esprit Thanataire🎭
+**Attributs**: Agilité d10, Intellect d10, âme d10, Force d10, Vigueur d10  
+**Talent**: Combat d10, Perception d10 Athlétisme d10 
+**Allure**: 8; **Parade** 7; **Résistance**: 4 **Cauchemar**: 6  
+**Habilités spéciales** :
+  - épée bâtarde, combat d10, dégâts 1d10 + 1d8
+  - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+
 
 ### Quauquemaire🎭
 **Attributs**: Agilité d8, Intellect d8(A), âme d8, Force d10, Vigueur d10  
-**Talent**: Combat d10, Perception d10 Athlétisme d10  
+**Talent**: Combat d10, Perception d10 Athlétisme d10  intimidation d8
 **Allure**: 8; **Parade** 6; **Résistance**: 4 **Cauchemar**: 6  
 **Habilités spéciales** :
   - morsure : Force+d6
+  - Taille +1
   - chant de cauchemar : entendre un quauquemaire chanter au crépuscule demande un jet d'âme. En cas d'échec on fait des cauchemars toute la nuit : on ne peut pas convertir son stress, ni récupérer des points de rêve.
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire une prouesse à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+
+
+### Noyeuse
+**Attributs**: Agilité d6, Intellect d6(A), âme d4, Force d6, Vigueur d6  
+**Talent**: Combat d6, Perception d6 Athlétisme d6  
+**Allure**: 6; **Parade** 5; **Résistance**: 4 **Cauchemar**: 4  
+**Habilités spéciales** :
+  - bras-galets combat d6, dégâts 2d6
+  - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+  - très résilent: peut subit deux blessures sans être incapacité, ne subit pas de malus des blessures
+
 
 ### Zombi
 **Attributs**: Agilité d6, Intellect d4(A), âme d4, Force d6, Vigueur d6  
 **Talent**: Combat d6, Perception d4 Athlétisme d4  
 **Allure**: 4; **Parade** 5; **Résistance**: 4 **Cauchemar**: 4  
 **Habilités spéciales** :
+  - griffes, combat d6, dégâts 2d6
   - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+  - très résilent: peut subit deux blessures sans être incapacité, ne subit pas de malus des blessures
+
+### Darquoine 
+**Attributs**: Agilité d8, Intellect d6(A), âme d6, Force d8, Vigueur d6  
+**Talent**: Combat d8, Perception d6 Discrétion d8 Athlétisme d4  
+**Allure**: 4; **Parade** 5; **Résistance**: 4 **Cauchemar**: 4  
+**Habilités spéciales** :
+  - griffes, combat d6, dégâts 2d8
+  - entité de cauchemar : ne peut pas être blessé par quelqu'un qui ne s'est pas harmonisé. Pour s'harmoniser il faut toucher l'entité et faire un jet d'âme qui dépasse ou égal son cauchemar. Cela coûte un point de rêve. Faire un raise à ce jet d'harmonisation fait baisser de 1 sa caractéristique cauchemar pendant 12h. L'entité de cauchemar ne peut pas être secouée. Elle ne craint ni la peur ni la magie.
+  - très résilent: peut subit deux blessures sans être incapacité, ne subit pas de malus des blessures
 
 ### Désespoir, Haine, Peur
 Talent : possession d8
