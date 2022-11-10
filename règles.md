@@ -38,6 +38,7 @@ Par derjudge
   * Jeu (Intellect)
   * Légendes (Intellect) : comprends aussi écriture et recherche
   * Métier (Agilité)
+  * Navigation (Agilité)
   * Perception (Intellect)
   * Persuasion (âme)
   * Performance (Âme)
