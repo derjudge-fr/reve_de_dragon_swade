@@ -1,7 +1,7 @@
 # Rêve de Dragon, SWADE
 
-Adaptation du jeu Rêve de Dragon avec le moteur Savage Worlds (SWADE).
-Par derjudge
+Adaptation du jeu Rêve de Dragon avec le moteur Savage Worlds (SWADE).  
+Par derjudge.
 
 
 ## Création de personnage :
