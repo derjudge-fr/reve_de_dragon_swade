@@ -24,35 +24,28 @@ A la création du personnage et à chaque fois que le haut-rêvant passe par le 
 
 
 ### Lancer un sort ou un rituel
-Quand un haut-rêvant rêve dans les terres médianes du rêve, son joueur garde trois cartes posées devant lui. Ces cartes sont dans une zone appelée le *champ du rêve*. Chaque sort ou rituel possède dans sa description une voie et une terre. Par exemple, *enchantement* a pour voie *narcos* et comme terre *cité*. Pour lancer un  *enchantement*, le haut-rêvant doit avoir dans son champ du rêve au moins une carte *cité* et une carte *narcos*.
-Pour monter dans les terres médianes du rêve, le haut-rêvant doit se concentrer (ne rien faire d'autre) et dépenser un point de rêve. Il peut alors rester dans les terres médianes du rêves tant qu'il reste concentré. Chaque round il peut défausser une ou deux cartes de son champ de rêve et les remplacer par des cartes au hasard piochées dans son deck. On appelle cette action un *déplacement* et coûte au HR un point de rêve.
+Quand un haut-rêvant rêve dans les terres médianes du rêve, son joueur garde trois cartes posées devant lui. Ces cartes sont dans une zone appelée le *champ du rêve*. Chaque sort ou rituel possède dans sa description une voie et une terre. Par exemple, *enchantement* a pour voie *narcos* et comme terre *cité*. Pour lancer un *enchantement*, le haut-rêvant doit avoir dans son champ du rêve au moins une carte *cité* et une carte *narcos*.
+Pour monter dans les terres médianes du rêve, le haut-rêvant doit se concentrer (ne rien faire d'autre) et dépenser un point de rêve. Il peut alors rester dans les terres médianes du rêves tant qu'il reste concentré. Il peut alors effectuer autant d'étapes qu'il le souhaite dans les terres médianes du rêves pendant son round, car le temps se déroule différement dans les rêves. A chaque étape, il peut défausser une ou deux cartes de son champ de rêve et les remplacer par des cartes au hasard piochées dans son deck mais cela lui coûte un point de rêve. On appelle cette action un *déplacement* et coûte au HR un point de rêve.
 
-#### Round de magie 
- - le HR monte dans les TMR au début du round. S'il n'était pas dans les TMR au round précédent, il doit remplacer immédiatement une de ses cartes de son choix de son champ de rêve.
- - Il peut affronter une rencontre ou une carte pour tenter de la maitriser (une seule).
+#### Les étapes d'un lancement de sort 
+ - le HR monte dans les TMR au début du round, cela lui coûte un point de rêve. S'il n'était pas dans les TMR au round précédent, il doit remplacer immédiatement une de ses cartes de son choix de son champ de rêve.
+ - Il peut affronter une rencontre ou une carte pour tenter de la maitriser (une seule à la fois).
  - Si les conditions sont réunies il peut lancer un sort ou un rituel (faire un jet de draconic difficulté 4 (+ modif astrologique pour les rituels)).
- - Le HR peut défausser une ou deux cartes de sont champ de rêve et les remplacer par autant de cartes piochées dans son deck.
- - Le HR peut choisir de quitter les TMR.
+ - Le HR peut défausser une ou deux cartes de sont champ de rêve et les remplacer par autant de cartes piochées dans son deck en échange d'un point de rêve.
+ - Le HR peut choisir gratuitement de quitter les TMR, il ne pourra pas y revenir avant le round suivant.
  - Si le sort ou le rituel réussi, il prend effet à la fin du round. Le HR quitte alors les TMR.
  - Le HR peut choisir de rester dans les TMR sans dépense de point de rêve.
 
 #### Mauvaises rencontres, bonnes rencontres et refoulement
-Hélas, certaines de ses cartes (parmi les cartes obligatoires du deck) sont des mauvaises rencontres et peuvent gêner le lancement des sorts. D'ailleurs, il y a des cartes terres ou voies qui sont aussi en elles-mêmes des mauvaises rencontres (c'est écrit sur la carte). Quand un joueur a au moins une carte rencontre non *maitrisée* sur son champ de rêve, il se peut que pour pouvoir continuer à lancer un sort ou pour simplement se déplacer, il devra maitriser la carte avec un test de draconic. Pour se faire il doit faire un test de draconic, et si le jet est réussi (le score doit dépasser ou atteindre la puissance de la carte), la carte mauvaise rencontre est inclinée de 90° et est considérée comme *maitrisée*. Il n'y a alors plus besoin de la combattre. 
-Si plusieurs cartes *mauvaise rencontre* non-maitrisées se trouvent sur le champ de rêve, il peut être nécessaire de toutes les combattre, mais on ne peut en maitriser qu'une seule par round. 
-Les cartes refoulement n'ont aucun effet direct sur le jeu, mais ils pourrissent le champ de rêve quand elles sont tirées. Il est toujours possible de les remplacer à chaque round. Cependant, si a un moment il y a deux cartes de refoulement qui apparaissent dans le champ du rêve, le haut-rêvant fait un *craquage de rêve*. Il retire alors définitivement **toutes** les cartes refoulement de son deck (champ, défausse et paquet), remélange tout son deck (pioche, défausse et champ) et tire trois cartes aléatoirement pour les mettre dans son champ de rêve. Il subit, au passage, un *souffle de dragon*.
+Hélas, certaines de ses cartes (parmi les cartes obligatoires du deck notamment) sont des mauvaises rencontres et peuvent gêner le lancement des sorts. D'ailleurs, il y a des cartes terres (lac, fleuve, marais) ou voies (thanatos) qui sont aussi en elles-mêmes des mauvaises rencontres (c'est écrit sur la carte). Quand un joueur a au moins une carte rencontre non *maitrisée* sur son champ de rêve, il se peut que pour pouvoir continuer à lancer un sort ou pour simplement se déplacer, il doive maitriser la carte avec un test de draconic. Pour se faire il doit faire un test de draconic, et si le jet est réussi (le score doit dépasser ou atteindre la puissance de la carte), la carte mauvaise rencontre est inclinée de 90° et est considérée comme *maitrisée*. Il n'y a alors plus besoin de la combattre. 
+Si plusieurs cartes *mauvaise rencontre* non-maitrisées se trouvent sur le champ de rêve, il peut être nécessaire de toutes les combattre. 
 
 #### Refoulement
 A tout moment, quand le haut-rêvant n'est pas dans les TMR. Il est possible de *refouler* et de remélanger les trois cartes du champ de rêve et la défausse dans le deck et de tirer aléatoirement les trois cartes du champ de rêve. Une fois fait, il faut ajouter une carte refoulement à la défausse. Aussi cette carte pourra potentiellement pourrir la suite des aventures en TMR du haut-rêvant. Une carte refoulement ne peut pas être retirée par la méditation draconique.
+Les cartes refoulement n'ont aucun effet direct sur le jeu, mais elles encombrent inutilement le champ de rêve quand elles sont tirées. Il est toujours possible de les remplacer à chaque round. Cependant, si a un moment il y a deux cartes de refoulement qui apparaissent dans le champ du rêve, le haut-rêvant fait un *craquage de rêve*. Il retire alors définitivement **toutes** les cartes refoulement de son deck (champ, défausse et paquet), remélange tout son deck (pioche, défausse et champ) et tire trois cartes aléatoirement pour les mettre dans son champ de rêve. Il subit, au passage, un *souffle de dragon* et perd tout ses sorts en réserve. De plus, les effets de ses échecs critique en réserve se déclenchent automatiquement.
 
 #### Défausse
 A tout moment (sans que cela ne coute de temps ni d'action) il est possible de remélanger la défausse et le paquet.
-
-#### Rêve accéléré
-Il est possible de monter dans les TMR en *rêve accéléré*. Cela coûte 2 points de rêve et a pour conséquence :
- * d'avoir un champ de rêve de 4 cartes
- * pouvoir remplacer chaque round 3 cartes à chaque déplacement
- * pouvoir faire tout les déplacement que l'ont veut dans un même round
- * quand une carte **mauvaise rencontre** (pas une carte fleuve, lac, marais ou thanatos) est dans le champ de rêve, le rêve accéléré s'arrête et le joueur doit défausser une carte de son champ.
 
 #### Sort en réserve
 Il est possible de garder un sort en réserve. Il suffit de lancer un sort et d'interrompre son effet. Le haut-rêvant gagne une carte refoulement en faisant ça. Pour lancer le sort le mage doit monter dans les terres médianes du rêve et avoir la carte voie associée dans son champ de rêve. Le sort est alors lancé à volonté sans jet de dé, ni dépense de point de rêve. Le haut rêvant peut alors enlever une carte de refoulement de son deck, de sa défausse ou de son champ de rêve.
